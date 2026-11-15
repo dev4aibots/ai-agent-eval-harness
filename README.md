@@ -1,3 +1,12 @@
+> **Superseded.** This was a first attempt at the same problem and it is kept
+> for history, not recommended reading. [`agent-eval-lab`](https://github.com/dev4aibots/agent-eval-lab) is the
+> version that replaced it: 24 graded cases with a dev/test split, three rule
+> graders, unbiased pass@k and pass^k, cluster-bootstrap confidence intervals,
+> an exact McNemar regression gate wired into CI, and a published report.
+>
+> This repository has four files and no tests. That is stated here rather than
+> left for a reviewer to discover.
+
 # AI Agent Eval & Red-Team Harness
 
 A small, dependency-free harness for measuring agent safety and answer quality.
